@@ -1,0 +1,58 @@
+body {
+    min-width: 250px;
+    background-color: #1c2329;
+    color: #fe931f;
+}
+
+h1 {
+    margin: 0 0 0.1em 0;
+    font-weight: 600;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    text-rendering: optimizeLegibility;
+    position: relative;
+    font-size: 36px;
+    line-height: 20px;
+    color: #fe931f;
+    padding: 15px 15px 15px 30%;
+    box-shadow: inset 0 0 0 1px rgba(53, 86, 129, 0.4), inset 0 0 5px rgba(53, 86, 129, 0.5), inset -285px 0 35px #1c2329;
+    border-radius: 0 10px 0 10px;
+    background: #1c2329 url(icon128.png) no-repeat center left;
+}
+
+a {
+    color: #fe931f;
+}
+
+ul {
+    font-size: 15px;
+}
+
+li {
+    padding: 6px;
+}
+
+#limitHead {
+    font-weight: 600;
+    font-size: 40px;
+    margin-left: 40%;
+}
+
+#limit {
+    font-weight: 600;
+    font-size: 40px;
+    width: 60px;
+    text-align: center;
+}
+
+#saveLimit {
+    font-weight: 600;
+    font-size: 40px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 43%;
+    background-color: #fe931f;
+    color: white;
+}
